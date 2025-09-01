@@ -2,7 +2,7 @@
   "dia": "jueves",
   "hora_inicio": "07:00",
   "hora_fin": "21:30",
-  "fecha_extraccion": "2025-08-27T08:45:29.323736",
+  "fecha_extraccion": "2025-09-01T00:03:26.334158",
   "salones_por_edificio": {
     "1": [
       {
@@ -12,17 +12,7 @@
       },
       {
         "salon": "1103",
-        "horario": "10:00-11:30",
-        "edificio": "1"
-      },
-      {
-        "salon": "1103",
         "horario": "13:00-14:30",
-        "edificio": "1"
-      },
-      {
-        "salon": "1103",
-        "horario": "16:00-17:30",
         "edificio": "1"
       },
       {
@@ -43,6 +33,11 @@
       {
         "salon": "1107",
         "horario": "13:00-16:00",
+        "edificio": "1"
+      },
+      {
+        "salon": "1107",
+        "horario": "19:00-20:30",
         "edificio": "1"
       },
       {
@@ -77,7 +72,7 @@
       },
       {
         "salon": "1114",
-        "horario": "13:00-16:00",
+        "horario": "14:30-16:00",
         "edificio": "1"
       },
       {
@@ -187,7 +182,7 @@
       },
       {
         "salon": "1213",
-        "horario": "19:00-22:00",
+        "horario": "20:30-22:00",
         "edificio": "1"
       },
       {
@@ -217,6 +212,11 @@
       }
     ],
     "2": [
+      {
+        "salon": "2101",
+        "horario": "10:00-11:30",
+        "edificio": "2"
+      },
       {
         "salon": "2102",
         "horario": "11:30-13:00",
@@ -314,7 +314,7 @@
       },
       {
         "salon": "2207",
-        "horario": "14:30-17:30",
+        "horario": "14:30-19:00",
         "edificio": "2"
       },
       {
@@ -417,6 +417,11 @@
       {
         "salon": "3111",
         "horario": "13:00-14:30",
+        "edificio": "3"
+      },
+      {
+        "salon": "3112",
+        "horario": "19:00-20:30",
         "edificio": "3"
       },
       {
@@ -551,10 +556,10 @@
       }
     ]
   },
-  "total_salones": 108,
+  "total_salones": 109,
   "resumen_edificios": {
-    "edificio_1": 42,
-    "edificio_2": 32,
-    "edificio_3": 34
+    "edificio_1": 41,
+    "edificio_2": 33,
+    "edificio_3": 35
   }
 }

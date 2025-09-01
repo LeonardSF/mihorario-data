@@ -2,17 +2,12 @@
   "dia": "martes",
   "hora_inicio": "07:00",
   "hora_fin": "21:30",
-  "fecha_extraccion": "2025-08-27T08:44:39.446223",
+  "fecha_extraccion": "2025-09-01T00:02:36.149021",
   "salones_por_edificio": {
     "1": [
       {
         "salon": "1102",
         "horario": "13:00-14:30",
-        "edificio": "1"
-      },
-      {
-        "salon": "1103",
-        "horario": "10:00-11:30",
         "edificio": "1"
       },
       {
@@ -48,6 +43,11 @@
       {
         "salon": "1108",
         "horario": "13:00-16:00",
+        "edificio": "1"
+      },
+      {
+        "salon": "1108",
+        "horario": "17:30-19:00",
         "edificio": "1"
       },
       {
@@ -93,11 +93,6 @@
       {
         "salon": "1115",
         "horario": "13:00-16:00",
-        "edificio": "1"
-      },
-      {
-        "salon": "1119",
-        "horario": "11:30-13:00",
         "edificio": "1"
       },
       {
@@ -207,6 +202,11 @@
       },
       {
         "salon": "1215",
+        "horario": "10:00-11:30",
+        "edificio": "1"
+      },
+      {
+        "salon": "1215",
         "horario": "13:00-17:30",
         "edificio": "1"
       },
@@ -217,6 +217,11 @@
       }
     ],
     "2": [
+      {
+        "salon": "2101",
+        "horario": "10:00-13:00",
+        "edificio": "2"
+      },
       {
         "salon": "2102",
         "horario": "11:30-13:00",
@@ -399,7 +404,7 @@
       },
       {
         "salon": "2213",
-        "horario": "10:00-16:00",
+        "horario": "11:30-16:00",
         "edificio": "2"
       },
       {
@@ -477,6 +482,11 @@
       {
         "salon": "3111",
         "horario": "13:00-16:00",
+        "edificio": "3"
+      },
+      {
+        "salon": "3112",
+        "horario": "11:30-13:00",
         "edificio": "3"
       },
       {
@@ -611,10 +621,10 @@
       }
     ]
   },
-  "total_salones": 120,
+  "total_salones": 122,
   "resumen_edificios": {
     "edificio_1": 42,
-    "edificio_2": 42,
-    "edificio_3": 36
+    "edificio_2": 43,
+    "edificio_3": 37
   }
 }
