@@ -191,11 +191,11 @@
         "Martes": "",
         "SalonMartes": "",
         "Miercoles": "11:30-13:00",
-        "SalonMiercoles": "",
+        "SalonMiercoles": "1206",
         "Jueves": "10:00-11:30",
         "SalonJueves": "1108",
         "Viernes": "11:30-13:00",
-        "SalonViernes": "",
+        "SalonViernes": "1214",
         "Salon": "X",
         "Edificio": "X"
     },
