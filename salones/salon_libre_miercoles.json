@@ -2,7 +2,7 @@
   "dia": "miercoles",
   "hora_inicio": "07:00",
   "hora_fin": "21:30",
-  "fecha_extraccion": "2025-09-04T14:06:41.458422",
+  "fecha_extraccion": "2025-09-09T23:05:35.828469",
   "salones_por_edificio": {
     "1": [
       {
@@ -238,8 +238,18 @@
         "edificio": "2"
       },
       {
+        "salon": "2104",
+        "horario": "19:00-20:30",
+        "edificio": "2"
+      },
+      {
         "salon": "2105",
         "horario": "13:00-14:30",
+        "edificio": "2"
+      },
+      {
+        "salon": "2105",
+        "horario": "20:30-22:00",
         "edificio": "2"
       },
       {
@@ -384,7 +394,7 @@
       },
       {
         "salon": "2213",
-        "horario": "17:30-20:30",
+        "horario": "17:30-19:00",
         "edificio": "2"
       },
       {
@@ -399,7 +409,7 @@
       },
       {
         "salon": "2215",
-        "horario": "16:00-22:00",
+        "horario": "16:00-20:30",
         "edificio": "2"
       }
     ],
@@ -576,10 +586,10 @@
       }
     ]
   },
-  "total_salones": 113,
+  "total_salones": 115,
   "resumen_edificios": {
     "edificio_1": 42,
-    "edificio_2": 37,
+    "edificio_2": 39,
     "edificio_3": 34
   }
 }
