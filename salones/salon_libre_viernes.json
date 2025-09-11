@@ -2,7 +2,7 @@
   "dia": "viernes",
   "hora_inicio": "07:00",
   "hora_fin": "21:30",
-  "fecha_extraccion": "2025-09-09T23:06:25.983185",
+  "fecha_extraccion": "2025-09-11T13:53:00.827455",
   "salones_por_edificio": {
     "1": [
       {
@@ -404,7 +404,7 @@
       },
       {
         "salon": "2211",
-        "horario": "13:00-22:00",
+        "horario": "14:30-22:00",
         "edificio": "2"
       },
       {
@@ -456,7 +456,7 @@
       },
       {
         "salon": "3106",
-        "horario": "13:00-16:00",
+        "horario": "11:30-16:00",
         "edificio": "3"
       },
       {
@@ -541,7 +541,7 @@
       },
       {
         "salon": "3205",
-        "horario": "16:00-19:00",
+        "horario": "17:30-19:00",
         "edificio": "3"
       },
       {
