@@ -2,7 +2,7 @@
   "dia": "lunes",
   "hora_inicio": "07:00",
   "hora_fin": "21:30",
-  "fecha_extraccion": "2025-09-11T13:51:20.661638",
+  "fecha_extraccion": "2025-09-16T20:21:53.561409",
   "salones_por_edificio": {
     "1": [
       {
@@ -37,11 +37,6 @@
       },
       {
         "salon": "1106",
-        "horario": "13:00-16:00",
-        "edificio": "1"
-      },
-      {
-        "salon": "1107",
         "horario": "13:00-16:00",
         "edificio": "1"
       },
@@ -103,11 +98,6 @@
       {
         "salon": "1203",
         "horario": "13:00-16:00",
-        "edificio": "1"
-      },
-      {
-        "salon": "1204",
-        "horario": "10:00-11:30",
         "edificio": "1"
       },
       {
@@ -298,11 +288,6 @@
         "edificio": "2"
       },
       {
-        "salon": "2205",
-        "horario": "13:00-16:00",
-        "edificio": "2"
-      },
-      {
         "salon": "2206",
         "horario": "13:00-16:00",
         "edificio": "2"
@@ -319,17 +304,7 @@
       },
       {
         "salon": "2209",
-        "horario": "13:00-16:00",
-        "edificio": "2"
-      },
-      {
-        "salon": "2209",
         "horario": "17:30-22:00",
-        "edificio": "2"
-      },
-      {
-        "salon": "2210",
-        "horario": "13:00-16:00",
         "edificio": "2"
       },
       {
@@ -354,7 +329,7 @@
       },
       {
         "salon": "2213",
-        "horario": "13:00-19:00",
+        "horario": "16:00-19:00",
         "edificio": "2"
       },
       {
@@ -466,6 +441,11 @@
       },
       {
         "salon": "3202",
+        "horario": "13:00-16:00",
+        "edificio": "3"
+      },
+      {
+        "salon": "3202",
         "horario": "20:30-22:00",
         "edificio": "3"
       },
@@ -501,7 +481,12 @@
       },
       {
         "salon": "3206",
-        "horario": "16:00-19:00",
+        "horario": "13:00-19:00",
+        "edificio": "3"
+      },
+      {
+        "salon": "3207",
+        "horario": "13:00-16:00",
         "edificio": "3"
       },
       {
@@ -511,7 +496,7 @@
       },
       {
         "salon": "3208",
-        "horario": "16:00-19:00",
+        "horario": "13:00-19:00",
         "edificio": "3"
       },
       {
@@ -531,7 +516,7 @@
       },
       {
         "salon": "3210",
-        "horario": "16:00-22:00",
+        "horario": "13:00-22:00",
         "edificio": "3"
       },
       {
@@ -556,10 +541,10 @@
       }
     ]
   },
-  "total_salones": 109,
+  "total_salones": 106,
   "resumen_edificios": {
-    "edificio_1": 37,
-    "edificio_2": 36,
-    "edificio_3": 36
+    "edificio_1": 35,
+    "edificio_2": 33,
+    "edificio_3": 38
   }
 }
